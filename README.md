@@ -1,2 +1,2 @@
 # CPU-Usage
-CPU usage stats script.
+CPU usage log for processes that use more than 10% of the CPU.
